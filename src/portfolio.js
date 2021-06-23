@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Darshan DS",
   logo_name: "DarshanDS",
-  nickname: "data_scientist",
+  nickname: "data_scientist-----------------------",
   subTitle:
   "A passionate datascientist who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
